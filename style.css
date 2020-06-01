@@ -67,3 +67,6 @@
 .tdb {
 	border-top: black 0.6px dashed;
 }
+#buttons {
+	align-content: center;
+}
